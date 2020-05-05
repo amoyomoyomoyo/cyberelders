@@ -74,3 +74,7 @@ while True:
 
         n += 1
         print(n)
+        
+    if n == 9:
+        print("決着つきません")            
+        break        
